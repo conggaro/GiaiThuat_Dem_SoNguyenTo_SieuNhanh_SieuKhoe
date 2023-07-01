@@ -12,7 +12,7 @@
             {
                 ketQua = true;
 
-                for (int i = 2; i < (int)Math.Pow(thamSo, 0.5) + 1; i++)
+                for (int i = 2; i <= (int)Math.Sqrt(thamSo); i++)
                 {
                     if (thamSo % i == 0)
                     {

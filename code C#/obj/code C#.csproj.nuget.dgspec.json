@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nccon\\Downloads\\Giải thuật tìm số nguyên tố siêu nhanh và siêu khỏe\\code C#\\code C#.csproj": {}
+    "C:\\Users\\nccon\\Downloads\\GiaiThuat_Dem_SoNguyenTo_SieuNhanh_SieuKhoe\\code C#\\code C#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nccon\\Downloads\\Giải thuật tìm số nguyên tố siêu nhanh và siêu khỏe\\code C#\\code C#.csproj": {
+    "C:\\Users\\nccon\\Downloads\\GiaiThuat_Dem_SoNguyenTo_SieuNhanh_SieuKhoe\\code C#\\code C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nccon\\Downloads\\Giải thuật tìm số nguyên tố siêu nhanh và siêu khỏe\\code C#\\code C#.csproj",
+        "projectUniqueName": "C:\\Users\\nccon\\Downloads\\GiaiThuat_Dem_SoNguyenTo_SieuNhanh_SieuKhoe\\code C#\\code C#.csproj",
         "projectName": "code C#",
-        "projectPath": "C:\\Users\\nccon\\Downloads\\Giải thuật tìm số nguyên tố siêu nhanh và siêu khỏe\\code C#\\code C#.csproj",
+        "projectPath": "C:\\Users\\nccon\\Downloads\\GiaiThuat_Dem_SoNguyenTo_SieuNhanh_SieuKhoe\\code C#\\code C#.csproj",
         "packagesPath": "C:\\Users\\nccon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nccon\\Downloads\\Giải thuật tìm số nguyên tố siêu nhanh và siêu khỏe\\code C#\\obj\\",
+        "outputPath": "C:\\Users\\nccon\\Downloads\\GiaiThuat_Dem_SoNguyenTo_SieuNhanh_SieuKhoe\\code C#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nccon\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -11,7 +11,7 @@ class Program{
         else if (thamSo >= 2) {
             ketQua = true;
 
-            for (int i = 2; i < (int)Math.pow(thamSo, 0.5) + 1; i++) {
+            for (int i = 2; i <= (int)Math.sqrt(thamSo); i++) {
                 if(thamSo % i == 0){
                     ketQua = false;
                     break;

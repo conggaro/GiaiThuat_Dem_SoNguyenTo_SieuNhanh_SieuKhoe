@@ -28,7 +28,7 @@ bool KiemTra_SNT(int thamSo){
         
         // nên nếu nó chia hết cho 2, 3, 4, 5, ...
         // thì nó sẽ không phải số nguyên tố
-        for (int i = 2; i < (int)pow(thamSo, 0.5) + 1; i++)
+        for (int i = 2; i <= (int)sqrt(thamSo); i++)
         {
             if (thamSo % i == 0)
             {
